@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ListTest
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.102 s <<< FAILURE! - in ListTest
+test13  Time elapsed: 0.014 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: length should be 1 ==> expected: <1> but was: <0>
+	at ListTest.test13(ListTest.java:152)
+
